@@ -32,7 +32,7 @@ Tecnologias utilizadas durante o projeto:
 
 ## 💻 Projeto
  
-O Move.it é uma plataforma de saúde para pessoas que passam muito tempo sentados utilizando o computador, oferecendo uma série de exércicios através de ciclos de tempo 😄.
+O Move.it é uma plataforma de saúde para pessoas que passam muito tempo sentados utilizando o computador, oferecendo uma série de exercícios através de ciclos de tempo 😄.
 
 Este projeto foi desenvolvido durante a Next Level Week 4 oferecido pela Rocketseat.
 
